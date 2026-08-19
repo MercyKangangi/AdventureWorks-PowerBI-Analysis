@@ -1,0 +1,19 @@
+# Power BI temporary / cache files
+*.tmp
+*.pbix.lock
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel / Office temporary
+~$*
+
+# Local / personal settings
+*.user
+*.rsuser
+
+# Optional: uncomment if you don't want to track large data files later
+# Data/*.csv
