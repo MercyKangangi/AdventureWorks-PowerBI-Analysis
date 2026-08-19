@@ -81,6 +81,15 @@ The goal is to provide clear, actionable insights for sales, marketing, and oper
    *(You may need to update the file path once via Transform data → Data source settings)*
 4. Refresh the data if prompted
 
+## Future Improvements
+
+Implement Row-Level Security (RLS)
+Deploy to Power BI Service with scheduled refresh
+
+## Author
+Mercy Kangangi
+Data Analyst / Business Intelligence Developer
+
 ---
 
 ## Project Structure
